@@ -23,7 +23,7 @@ I'm Yichao Zhu, an undergraduate student at [School of Information Science and T
 
 # 🎖 Honors and Awards
 - *2023.07*, Outstanding Social Practice Member.
-- *2024.09*, \textbf{Second Prize} of the 2024 National Undergraduate Mathematical Contest in Modeling in Shanghai Zone.
+- *2024.09*, **Second Prize** of the 2024 National Undergraduate Mathematical Contest in Modeling in Shanghai Zone.
 
 # 📖 Educations
 - *2022.09 - present*, Undergraduate, Shanghaitech University, Shanghai
