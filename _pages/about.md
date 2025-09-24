@@ -31,4 +31,4 @@ I'm Yichao Zhu, an undergraduate student at [School of Information Science and T
 # 💻 Sevice
 - *2025.03 - 2025.07*, Teaching Assistant for CS182 *Introduction to Machine Learning* course.
 - *2024.09 - 2025.09*, President of the Music Club.
-- *2024.09 - 2025.09*, Student Assistant of the Mind and Health Center.
+- *2023.09 - 2025.09*, Student Assistant of the Mind and Health Center.
