@@ -22,7 +22,13 @@ I'm Yichao Zhu, an undergraduate student at [School of Information Science and T
 # 📝 Publications 
 
 # 🎖 Honors and Awards
-- *2024.07*, \textbf{Second Prize} of the 2024 National Undergraduate Mathematical Contest in Modeling in Shanghai Zone.
+- *2023.07*, Outstanding Social Practice Member.
+- *2024.09*, \textbf{Second Prize} of the 2024 National Undergraduate Mathematical Contest in Modeling in Shanghai Zone.
 
 # 📖 Educations
-- *2022.09 - present*, Undergraduate, Shanghaitech University, Shanghai 
+- *2022.09 - present*, Undergraduate, Shanghaitech University, Shanghai
+
+# 💻 Sevice
+- *2025.03 - 2025.07*, Teaching Assistant for CS182 *Introduction to Machine Learning* course.
+- *2024.09 - 2025.09*, President of the Music Club.
+- *2024.09 - 2025.09*, Student Assistant of the Mind and Health Center.
